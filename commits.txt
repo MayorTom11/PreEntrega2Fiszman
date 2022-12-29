@@ -1,0 +1,31 @@
+PS D:\Escritorio\Coderhouse\TP 2 Página Avanzada\repo_1> git init
+Initialized empty Git repository in D:/Escritorio/Coderhouse/TP 2 Página Avanzada/repo_1/.git/
+PS D:\Escritorio\Coderhouse\TP 2 Página Avanzada\repo_1> git add .
+PS D:\Escritorio\Coderhouse\TP 2 Página Avanzada\repo_1> git commit -m "primer commit entero"
+[master (root-commit) 562bd19] primer commit entero
+ 22 files changed, 481 insertions(+)
+ create mode 100644 "dise\303\261o/main.css"       
+ create mode 100644 html/contactanos.html
+ create mode 100644 html/emprendedores.html        
+ create mode 100644 html/index.html
+ create mode 100644 html/productos.html
+ create mode 100644 html/quienes.html
+ create mode 100644 imagenes/AnilloE.jpg
+ create mode 100644 imagenes/AnilloV.jpg
+ create mode 100644 imagenes/LibroA.jpg
+ create mode 100644 imagenes/LibroN.jpg
+ create mode 100644 imagenes/emprendedor1.jpg
+ create mode 100644 imagenes/emprendedor2.jpg
+ create mode 100644 imagenes/emprendedor3.jpeg
+ create mode 100644 imagenes/facebook.png
+ create mode 100644 imagenes/funda1.png
+ create mode 100644 imagenes/funda2.png
+ create mode 100644 imagenes/funda3.png
+ create mode 100644 imagenes/instagram.png
+ create mode 100644 imagenes/linkedin.png
+ create mode 100644 imagenes/logo.jpg
+ create mode 100644 imagenes/logo2.png
+ create mode 100644 imagenes/twitter.png
+PS D:\Escritorio\Coderhouse\TP 2 Página Avanzada\repo_1>
+
+562bd19 (HEAD -> master) primer commit entero
