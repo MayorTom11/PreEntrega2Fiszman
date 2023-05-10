@@ -1,0 +1,35 @@
+.header{
+    background-color: #D9BCA9;
+
+    .header__container{
+        max-width: 90vw;
+        margin: 0 auto;
+        padding: 10px 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        .logo{
+            max-width: 15%;
+            max-height: 15%;
+        }
+
+        ul{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 30px;
+
+            li{
+                list-style: none;
+
+                a{
+                    text-decoration: none;
+                    color: black;
+                    font-size: 20px;
+                    font-weight: bold;
+                }
+            }
+        }
+        }
+    }
